@@ -1,0 +1,1 @@
+java -cp target/classes;target/dependency/* com.articles_hub.heroku.Main
